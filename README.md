@@ -1,6 +1,6 @@
 # v-datatable
 
-> A Vue.js project
+> 文档地址：https://chenkjia.github.io/v-datatables/
 
 ## Build Setup
 
