@@ -1,4 +1,4 @@
-# v-datatables
+# v-datatable
 
 > 文档地址：https://chenkjia.github.io/v-datatables/
 
