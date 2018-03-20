@@ -2,17 +2,15 @@
 
 > 文档地址：https://chenkjia.github.io/v-datatables/
 
-## Build Setup
+## 安装
 
-``` bash
-# install dependencies
-npm install
+`npm i -S v-datatables`
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 引入
 
-# build for production with minification
-npm run build
+```js
+import Vue from 'vue'
+import VDatatables from 'v-datatables'
+
+Vue.use(VDatatables)
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).

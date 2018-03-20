@@ -14,7 +14,7 @@
 </p>
 
 - 分页，即时搜索和排序
-- 几乎支持任何数据源：DOM， javascript， Ajax 和 服务器处理
+- 几乎支持任何数据源：json， javascript， Ajax 和 服务器处理
 - 支持不同主题 DataTables, jQuery UI, Bootstrap, Foundation
 - 丰富多样的option和强大的API
 - 支持国际化
